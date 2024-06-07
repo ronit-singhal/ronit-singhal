@@ -2,8 +2,6 @@
 
 **Who I Am:** I'm an innovative and results-driven Data Science and Machine Learning Engineer, specializing in harnessing the power of AI, ML, and DL to solve real-world problems.
 
-**What I Do:** With a strong foundation in both theory and practice, I bring machine learning and deep learning solutions to the table. My expertise lies in creating, optimizing, and deploying models that drive significant improvements in business outcomes.
-
 **My Expertise:** I excel in translating complex data into actionable insights, crafting custom-tailored AI solutions that align with specific client needs and goals. My approach is collaborative and client-focused, ensuring that each project is not only a technological success but also a strategic win.
 
 **Bridging the Gap:** I believe in bridging the gap between theoretical AI models and practical, scalable, and efficient real-world applications. My goal is to transform your ideas into actionable and impactful AI solutions that drive growth, optimize processes, and enhance decision-making.
