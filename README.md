@@ -1,12 +1,6 @@
 ## About Me:
 
-**Who I Am:** I'm an innovative and results-driven Data Science and Machine Learning Engineer, specializing in harnessing the power of AI, ML, and DL to solve real-world problems.
-
-**My Expertise:** I excel in translating complex data into actionable insights, crafting custom-tailored AI solutions that align with specific client needs and goals. My approach is collaborative and client-focused, ensuring that each project is not only a technological success but also a strategic win.
-
-**Bridging the Gap:** I believe in bridging the gap between theoretical AI models and practical, scalable, and efficient real-world applications. My goal is to transform your ideas into actionable and impactful AI solutions that drive growth, optimize processes, and enhance decision-making.
-
-**Let's Collaborate:** If you're looking for a reliable, innovative, and result-oriented ML/DL engineer to take your project to the next level, let's connect. I'm passionate about building long-term partnerships with my clients, offering ongoing support and adaptability as your business and technology landscapes evolve. Let's unlock the potential of your data together!
+I'm an innovative and results-driven Data Science and Machine Learning Engineer, specializing in using AI, ML, and DL to solve real-world problems.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronit-singhal)
